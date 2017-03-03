@@ -6,15 +6,15 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": "2017/sports/Sounders-starting-XI-2017"
+      "path": "2017/sports/seattle-sounders-starting-XI-2017"
     }
   },
-  "title": "",
-  "description": "",
-  "url": "http://projects.seattletimes.com/2017/sports/Sounders-starting-XI-2017/",
-  "slug": "",
+  "title": "Meet the Sounders' Starting XI",
+  "description": "These are the Sounders who will attempt to defend the club's first MLS Cup.",
+  "url": "http://projects.seattletimes.com/2017/sports/seattle-sounders-starting-xi-2017/",
+  "slug": "seattle-sounders-starting-xi-2017",
   "tags": ["interactive", "parallax"],
-  "image": "",
-  "production": false,
+  "image": "/assets/sounders_social.jpg",
+  "production": true,
   "sheets": ["1n1LwGkxDo3kJ54RrFAOrNLiLHsrVwU2Zn9-uEGC6ivo"]
 }
